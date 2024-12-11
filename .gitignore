@@ -1,3 +1,14 @@
+# Ignore these files:
+ptest
+cholupdate
+test_optimal
+*.out
+
+# Do not ignore this file
+!.gitignore
+
+# ignore the following:
+
 # Prerequisites
 *.d
 

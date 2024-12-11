@@ -1,0 +1,20 @@
+#!/bin/sh
+
+./build/ptest lp_25fv47 > Outputs/lp_25fv47_chol.out
+./build/ptest lp_80bau3b > Outputs/lp_80bau3b_chol.out
+./build/ptest lp_adlittle > Outputs/lp_adlittle_chol.out
+./build/ptest lp_afiro > Outputs/lp_afiro_chol.out
+./build/ptest lp_agg > Outputs/lp_agg_chol.out
+./build/ptest lp_agg2 > Outputs/lp_agg2_chol.out
+./build/ptest lp_agg3 > Outputs/lp_agg3_chol.out
+./build/ptest lp_bandm > Outputs/lp_bandm_chol.out
+./build/ptest lp_beaconfd > Outputs/lp_beaconfd_chol.out
+./build/ptest lp_blend > Outputs/lp_blend_chol.out
+./build/ptest lp_bnl1 > Outputs/lp_bnl1_chol.out
+./build/ptest lp_bnl2 > Outputs/lp_bnl2_chol.out
+./build/ptest lp_bore3d > Outputs/lp_bore3d_chol.out
+./build/ptest lp_brandy > Outputs/lp_brandy_chol.out
+./build/ptest lp_capri > Outputs/lp_capri_chol.out
+./build/ptest lp_cre_a > Outputs/lp_cre_a_chol.out
+#./build/ptest lpi_pang > Outputs/lpi_pang_chol.out
+#./build/ptest lpi_pilot4i > Outputs/lpi_pilot4i_chol.out
